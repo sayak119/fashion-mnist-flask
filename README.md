@@ -1,3 +1,4 @@
+**Please star this repo if you are using it as a reference. Thanks.**
 # Classification Models
 
 This is a PoC for creating a pipeline that does the following -
